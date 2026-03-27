@@ -1,5 +1,4 @@
 # FUTURE_CS_01
-Vulnerability Assessment
 This file documents the results of a Vulnerability Assessment and Penetration Testing (VAPT) conducted on the testphp.vulnweb project. The VAPT focused on identifying potential security weaknesses within the application. It's important to note that a relatively small number of vulnerabilities were discovered as this is my first VAPT on a web application.
 
 Disclaimer
